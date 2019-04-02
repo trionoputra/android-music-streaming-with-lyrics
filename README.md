@@ -2,9 +2,9 @@
 
 This is an open source project for streaming music with Lyrics
 
-<img src="page1.png" width="200" alt="Android Music Streaming with Lyrics"></a>
-<img src="page2.png" width="200" alt="Android Music Streaming with Lyrics"></a>
-<img src="page3.png" width="200" alt="Android Music Streaming with Lyrics"></a>
+<img src="page1.png" width="200" alt="Android Music Streaming with Lyrics"></img>
+<img src="page2.png" width="200" alt="Android Music Streaming with Lyrics"></img>
+<img src="page3.png" width="200" alt="Android Music Streaming with Lyrics"></img>
 
 To run this application you need an internet connection and web services to get song and lyrics list.
 <br/>
