@@ -1,6 +1,7 @@
 # Android Music Streaming with Lyrics
 
 This is an open source project for streaming music with Lyrics
+> aplikasi streaming musik android dengan lirik
 
 <img src="page1.png" width="200" alt="Android Music Streaming with Lyrics"></img>
 <img src="page2.png" width="200" alt="Android Music Streaming with Lyrics"></img>
